@@ -1,4 +1,4 @@
-# Procurement Spend Analysis Dashboard
+# Procurement Performance Analysis Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.51%2B-FF4B4B?logo=streamlit&logoColor=white)
